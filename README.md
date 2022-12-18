@@ -9,6 +9,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 HTML | CSS
 
-# Fonte
+# Curso
 
-3ª Missão  Aprenda a construir sua primeira página web estilizada | DevMedia
+HTML E CSS 
+
+3ª Missão  Aprenda a construir sua primeira página web estilizada. 
+
+DevMedia
