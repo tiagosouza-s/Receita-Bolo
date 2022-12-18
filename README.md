@@ -1,5 +1,11 @@
 # receita-bolo
 
-Projeto - Página de receita de bolo
+# Tecnologias
 
-Página web criada com HTMLe CSS | DevMedia.
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+HTML | CSS
+
+# Fonte
+
+Projeto passo a passo: Construa seu primeiro documento HTML | DevMedia
