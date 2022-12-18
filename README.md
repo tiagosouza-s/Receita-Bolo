@@ -12,7 +12,7 @@ HTML | CSS
 
 # Curso
 
-Carreira Programador | MÓDULO 1 - HTML e CSS
+Carreira Programador front-end | MÓDULO 1 - HTML e CSS
 
 3ª Missão - Aprenda a construir sua primeira página web estilizada 
 
