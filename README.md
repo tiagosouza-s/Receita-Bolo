@@ -14,5 +14,4 @@ DevMedia
 
 # Tecnologias
 
-HTML
-CSS
+HTML | CSS
